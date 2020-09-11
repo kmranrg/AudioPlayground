@@ -1,6 +1,6 @@
 #pip install SpeechRecognition
 
-import speech_recognition as s
+import speech_recognition as sr
 
 r = sr.Recognizer()
 
